@@ -9,6 +9,8 @@ The HyperKvasir Dataset(https://datasets.simula.no/hyper-kvasir/) was used for m
 ## Python Libraries Used and Training Setup:
 
 - **GPU:** Nvidia GeForce RTX 4060
+- **CUDA Version:** 11.2
+- **CuDNN Version:** 8.1.0
 - **IDE:** Visual Studio Code
 - **Python Version:** 3.9.19
 - **TensorFlow Version:** 2.10.1
